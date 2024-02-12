@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userDetail": [
+    {
+      "firstName": "Jenshil",
+      "lastName": "T",
+      "email": "jenshil04@gmail.com",
+      "dob": "1999-09-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "be",
+      "mobileNumber": 8870753420,
+      "address": "Kamaraj nagar Surandai",
+      "id": 1
+    },
+    {
+      "firstName": "Suji",
+      "lastName": "A",
+      "email": "sujithangeswaran@gmail.com",
+      "dob": "1973-11-15T18:30:00.000Z",
+      "gender": "female",
+      "education": "arts",
+      "mobileNumber": 786209635,
+      "address": "Kamaraj nagar surandai",
+      "id": 2
+    },
+    {
+      "firstName": "Dhone",
+      "lastName": "h",
+      "email": "djjk@gmail.com",
+      "dob": "2023-12-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "MBBS",
+      "mobileNumber": 2323234,
+      "address": "reesf",
+      "id": 3
+    }
+  ]
+}

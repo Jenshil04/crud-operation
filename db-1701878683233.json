@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userDetail": [
+    {
+      "firstName": "Jenshil",
+      "lastName": "T",
+      "email": "jenshil04@gmail.com",
+      "dob": "1999-09-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "be",
+      "mobileNumber": 8870753420,
+      "address": "Kamaraj nagar Surandai",
+      "id": 1
+    },
+    {
+      "firstName": "Jenshil",
+      "lastName": "T",
+      "email": "jenshil04@gmail.com",
+      "dob": "1999-09-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "be",
+      "mobileNumber": 8870753420,
+      "address": "Kamaraj nagar Surandai.",
+      "id": 2
+    },
+    {
+      "firstName": "Jenshil",
+      "lastName": "T",
+      "email": "jenshil04@gmail.com",
+      "dob": "1999-09-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "BE",
+      "mobileNumber": 8870753420,
+      "address": "Kamaraj nagar Surandai...",
+      "id": 3
+    },
+    {
+      "firstName": "Jenshil",
+      "lastName": "T",
+      "email": "jenshil04@gmail.com",
+      "dob": "1999-09-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "be",
+      "mobileNumber": 8870753420,
+      "address": "Kamaraj nagar Surandai.",
+      "id": 4
+    }
+  ]
+}
